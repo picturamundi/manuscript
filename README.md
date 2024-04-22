@@ -151,49 +151,47 @@ Each consonant follows one of three shape patterns (Y axis on the chart below), 
 
 I write 29 consonant sounds with only twelve letters. This is because similar sounds are grouped (see X axis on “consonant sounds” chart above), and each group is written with a single letter. Diacritics are then used to distinguish sounds in the group (X axis on the chart below).
 
-Consonant shape and diacritics
-
-base
-
-related
-
-compound
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-lips
-
-!
-
-;
-
-,
-
-.
-
-'
-
-:
-
-"
-
-ridge
-
-?
-
-back
-
-;
+<div class="large-table simple-script">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-8jgo" colspan="2" rowspan="2">Consonant shape and diacritics
+                </th>
+                <th class="tg-0lax" colspan="2">base</th>
+                <th class="tg-0lax" colspan="2">related</th>
+                <th class="tg-0lax" colspan="2">compound</th>
+            </tr>
+            <tr>
+                <th class="tg-0lax">unvoiced</th>
+                <th class="tg-0lax">voiced</th>
+                <th class="tg-0lax">unvoiced</th>
+                <th class="tg-0lax">voiced</th>
+                <th class="tg-0lax">unvoiced</th>
+                <th class="tg-0lax">voiced</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-0lax">lips</td>
+                <td class="tg-0lax"><span class="script">!</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">;</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">,</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">.</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">'</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">:</span></td>
+                <td class="tg-0lax" rowspan="3"><span class="script">"</span></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">ridge</td>
+                <td class="tg-0lax"><span class="script">?</span></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">back</td>
+                <td class="tg-0lax"><span class="script">;</span></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 **Example**:
 
@@ -204,101 +202,125 @@ Here's how the above patterns play out with the letter `p`:
 
 The 29 written consonant sounds follow the above patterns. One exception for practicality: it is not necessary to write the voiced diacritic for voiced consonants with no unvoiced counterpart (`m`, `w`, `n`, `l`, `r`, `ŋ`).
 
-Writing consonants
-
-base letter
-
-related
-
-compound
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-lips
-
-bilabial
-
-p (p)
-
-b (b)
-
-m (m)
-
-w (w)
-
-q (kw)
-
-W (gw)
-
-labiodental
-
-f (f)
-
-v (v)
-
-ridge
-
-alveolar
-
-t (t)
-
-d (d)
-
-F (θ)
-
-V (đ)
-
-T (tʃ)
-
-D (dʒ)
-
-s (s)
-
-z (z)
-
-j (ʃ)
-
-J (ʒ)
-
-n (n)
-
-l (l)
-
-back
-
-palatal
-
-r (r)
-
-y (y)
-
-velar
-
-k (k)
-
-g (g)
-
-x (ks)
-
-G (gz)
-
-N (ŋ)
-
-guttural
-
-h (h)
-
-H (ʔ)
+<div class="large-table script">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-8jgo" colspan="2" rowspan="2">Writing consonants</th>
+                <th class="tg-0pky" colspan="2">base letter</th>
+                <th class="tg-0pky" colspan="2">related</th>
+                <th class="tg-0pky" colspan="2">compound</th>
+            </tr>
+            <tr>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-0pky" rowspan="3">lips</td>
+                <td class="tg-0pky" rowspan="2">bilabial</td>
+                <td class="tg-0pky script"><span class="script">p</span> (p)</td>
+                <td class="tg-0pky script"><span class="script">b</span> (b)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky script"><span class="script">m</span> (m)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"><span class="script">w</span> (w)</td>
+                <td class="tg-0pky script"><span class="script">q</span> (kw)</td>
+                <td class="tg-0pky script"><span class="script">W</span> (gw)</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">labiodental</td>
+                <td class="tg-0pky script"><span class="script">f</span> (f)</td>
+                <td class="tg-0pky script"><span class="script">v</span> (v)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="4">ridge</td>
+                <td class="tg-0pky" rowspan="4">alveolar</td>
+                <td class="tg-0pky script"><span class="script">t</span> (t)</td>
+                <td class="tg-0pky script"><span class="script">d</span> (d)</td>
+                <td class="tg-0pky script"><span class="script">F</span> (θ)</td>
+                <td class="tg-0pky script"><span class="script">V</span> (đ)</td>
+                <td class="tg-0pky script"><span class="script">T</span> (tʃ)</td>
+                <td class="tg-0pky script"><span class="script">D</span> (dʒ)</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky script"><span class="script">s</span> (s)</td>
+                <td class="tg-0pky script"><span class="script">z</span> (z)</td>
+                <td class="tg-0pky script"><span class="script">j</span> (ʃ)</td>
+                <td class="tg-0pky script"><span class="script">J</span> (ʒ)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky script"><span class="script">n</span> (n)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky script"><span class="script">l</span> (l)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="5">back</td>
+                <td class="tg-0pky">palatal</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"><span class="script">r</span> (r)</td>
+                <td class="tg-0pky script"><span class="script">y</span> (y)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="2">velar</td>
+                <td class="tg-0pky script"><span class="script">k</span> (k)</td>
+                <td class="tg-0pky script"><span class="script">g</span> (g)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"><span class="script">x</span> (ks)</td>
+                <td class="tg-0pky script"><span class="script">G</span> (gz)</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky script"><span class="script">N</span> (ŋ)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">guttural</td>
+                <td class="tg-0pky script"><span class="script">h</span> (h)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"><span class="script">H</span> (ʔ)</td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+                <td class="tg-0pky script"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 **Note**: The consonant used to represent a glottal stop sound (`H`), is also used at the beginning of any word that starts with a vowel (this will make more sense in light of how we write vowels themselves). In English, pronouncing a stop at the beginning of such words is optional.
 
@@ -309,57 +331,64 @@ Vowels are still evolving in how I write them. This flexibility doesn't tend to 
 
 For now, I tend to be able to get away with writing only 15 vowel sounds, which, much like consonant sounds, are organized into families (Y axis) so that we don't have to write 15 unique graphemes.
 
-vowels
+<div class="large-table vowels">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-8jgo">vowels</th>
+                <th class="tg-0pky">short</th>
+                <th class="tg-0pky">long</th>
+                <th class="tg-0lax">diphthong</th>
+                <th class="tg-0lax">other</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-0pky">a</td>
+                <td class="tg-0pky">nap <img src="assets/images/script/a.svg" alt=""></td>
+                <td class="tg-0pky">cape <img src="assets/images/script/a-l.svg" alt=""></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0pky">aha! <img src="assets/images/script/a-o.svg" alt=""></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">e</td>
+                <td class="tg-0pky">pen <img src="assets/images/script/e.svg" alt=""></td>
+                <td class="tg-0pky">greek <img src="assets/images/script/e-l.svg" alt=""></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0lax"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">i</td>
+                <td class="tg-0pky">nib <img src="assets/images/script/i.svg" alt=""></td>
+                <td class="tg-0pky">tide <img src="assets/images/script/i-l.svg" alt=""></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0lax"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">o</td>
+                <td class="tg-0pky">hot <img src="assets/images/script/o.svg" alt=""></td>
+                <td class="tg-0pky">hope <img src="assets/images/script/o-l.svg" alt=""></td>
+                <td class="tg-0pky">loud <img src="assets/images/script/o-d.svg" alt=""></td>
+                <td class="tg-0pky">raw <img src="assets/images/script/o-o.svg" alt=""></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">u</td>
+                <td class="tg-0pky">mud <img src="assets/images/script/u.svg" alt=""></td>
+                <td class="tg-0pky">muse <img src="assets/images/script/u-l.svg" alt=""></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0lax"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">oo</td>
+                <td class="tg-0pky">room <img src="assets/images/script/oo.svg" alt=""></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0lax"></td>
+                <td class="tg-0pky">book <img src="assets/images/script/oo-o.svg" alt=""></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-short
-
-long
-
-diphthong
-
-other
-
-a
-
-nap ![](assets/images/script/a.svg)
-
-cape ![](assets/images/script/a-l.svg)
-
-aha! ![](assets/images/script/a-o.svg)
-
-e
-
-pen ![](assets/images/script/e.svg)
-
-greek ![](assets/images/script/e-l.svg)
-
-i
-
-nib ![](assets/images/script/i.svg)
-
-tide ![](assets/images/script/i-l.svg)
-
-o
-
-hot ![](assets/images/script/o.svg)
-
-hope ![](assets/images/script/o-l.svg)
-
-loud ![](assets/images/script/o-d.svg)
-
-raw ![](assets/images/script/o-o.svg)
-
-u
-
-mud ![](assets/images/script/u.svg)
-
-muse ![](assets/images/script/u-l.svg)
-
-oo
-
-room ![](assets/images/script/oo.svg)
-
-book ![](assets/images/script/oo-o.svg)
 
 In semitic languages like Hebrew and Arabic, in which vowels are also written as diacritics, they are often omitted from writing altogether with no impact on reader comprehension. We can't do this in English because our language is not built around syllables in the same way that semitic languages are.
 
