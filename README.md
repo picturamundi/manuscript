@@ -1,20 +1,18 @@
-manuscript
+Manuscript
 ==========
 
 ![](assets/images/script/image.svg)
 
-On this page:
-
-A writing system I use to explore what I find interesting about manuscripts. For now, I've tried to make the system 1\] a bit more phonetic in its spelling than standard English (it will necessarily reflect my accent), and 2\] fun to write in cursive!
+This is a writing system I use to explore what I find interesting about manuscripts. For now, I've tried to make the system 1\] a bit more phonetic in its spelling than standard English (it will necessarily reflect my accent), and 2\] fun to write in cursive!
 
 It is a work in progress.
 
-consonants
+Consonants
 ----------
 
 29 English consonant sounds are represented. Rather than simply come up with 29 unique graphemes, we'll devise a system to organize these sounds in way that makes writing them more manageable.
 
-### consonant sounds
+### Consonant sounds
 
 1\. Sounds are organized into three families based on the general area where they are pronounced in the mouth (Y axis in the table below).
 
@@ -24,103 +22,130 @@ consonants
 *   Similar pronunciation (e.g. both t/d pair and θ/đ pair are pronounced with the tip of the tongue at the front of the mouth)
 *   Reoccurrence of a sound within compounds (t/d contained in tʃ/dʒ)
 
-Consonant sounds
 
-a. base letter
+                        <div class="large-table">
+                            <table class="tg">
+                                <thead>
+                                    <tr>
+                                        <th class="tg-8jgo" colspan="2" rowspan="2">Consonant sounds</th>
+                                        <th class="tg-0pky" colspan="2">a. base letter</th>
+                                        <th class="tg-0pky" colspan="2">b. related</th>
+                                        <th class="tg-0pky" colspan="2">c. compound</th>
+                                    </tr>
+                                    <tr>
+                                        <th class="tg-0pky">unvoiced</th>
+                                        <th class="tg-0pky">voiced</th>
+                                        <th class="tg-0pky">unvoiced</th>
+                                        <th class="tg-0pky">voiced</th>
+                                        <th class="tg-0pky">unvoiced</th>
+                                        <th class="tg-0pky">voiced</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="tg-0pky" rowspan="3">1. lips</td>
+                                        <td class="tg-0pky" rowspan="2">bilabial</td>
+                                        <td class="tg-0pky">p</td>
+                                        <td class="tg-0pky">b</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">m</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">w</td>
+                                        <td class="tg-0pky">cw</td>
+                                        <td class="tg-0pky">gw</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky">labiodental</td>
+                                        <td class="tg-0pky">f</td>
+                                        <td class="tg-0pky">v</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky" rowspan="4">2. ridge</td>
+                                        <td class="tg-0pky" rowspan="4">alveolar</td>
+                                        <td class="tg-0pky">t</td>
+                                        <td class="tg-0pky">d</td>
+                                        <td class="tg-0pky">θ</td>
+                                        <td class="tg-0pky">đ</td>
+                                        <td class="tg-0pky">tʃ</td>
+                                        <td class="tg-0pky">dʒ</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky">s</td>
+                                        <td class="tg-0pky">z</td>
+                                        <td class="tg-0pky">ʃ</td>
+                                        <td class="tg-0pky">ʒ</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">n</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">l</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky" rowspan="5">3. back</td>
+                                        <td class="tg-0pky">palatal</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">r</td>
+                                        <td class="tg-0pky">y</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky" rowspan="2">velar</td>
+                                        <td class="tg-0pky">k</td>
+                                        <td class="tg-0pky">g</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">ks</td>
+                                        <td class="tg-0pky">gz</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky">
+                                        </td>
+                                        <td class="tg-0pky">ŋ</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="tg-0pky">guttural</td>
+                                        <td class="tg-0pky">h</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky">ʔ</td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                        <td class="tg-0pky"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
 
-b. related
 
-c. compound
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-unvoiced
-
-voiced
-
-1\. lips
-
-bilabial
-
-p
-
-b
-
-m
-
-w
-
-cw
-
-gw
-
-labiodental
-
-f
-
-v
-
-2\. ridge
-
-alveolar
-
-t
-
-d
-
-θ
-
-đ
-
-tʃ
-
-dʒ
-
-s
-
-z
-
-ʃ
-
-ʒ
-
-n
-
-l
-
-3\. back
-
-palatal
-
-r
-
-y
-
-velar
-
-k
-
-g
-
-ks
-
-gz
-
-ŋ
-
-guttural
-
-h
-
-ʔ
-
-### writing consonants
+### Writing consonants
 
 Each consonant follows one of three shape patterns (Y axis on the chart below), depending on whether the letter has a stem and where the stem is placed. These three “families” indicate approximately where a letter is pronounced in the mouth (see Y axis on “consonant sounds” chart above).
 
@@ -277,7 +302,7 @@ H (ʔ)
 
 **Note**: The consonant used to represent a glottal stop sound (`H`), is also used at the beginning of any word that starts with a vowel (this will make more sense in light of how we write vowels themselves). In English, pronouncing a stop at the beginning of such words is optional.
 
-vowels
+Vowels
 ------
 
 Vowels are still evolving in how I write them. This flexibility doesn't tend to impact the rest of the writing system, however, since vowels are represented as diacritics that freely float below the consonant that precedes them.
@@ -346,10 +371,10 @@ In the same way, some consonant diacritics can be discarded as well.
 
 Take the article “the”. It is often sufficient to simply write it as the letter `t`, omitting both the top diacritic indicating that it is specifically a `đ` consonant sound, as well as the bottom diacritic indicating that it is followed by a short `u` vowel sound (approximately). “I took `t` train” just works.
 
-cursive manuscript
+Cursive manuscript
 ------------------
 
-### connecting letters
+### Connecting letters
 
 Writing this script in cursive is not as straightforward as typical English cursive with a latin alphabet because letters do not consistently attach in the same place (in English cursive, this tends to be at the writing line).
 
@@ -414,7 +439,7 @@ r
 
 Since cursive is partly a matter of ergonomics, partly a matter of esthetics, there is flexibility here. For example, I often find that I like to use the middle form of letters in the `t` family at the beginning of one-syllable words (see visual examples below).
 
-### connecting words
+### Connecting words
 
 Words aren't always written from left to right with spaces in between; they can succeed one another in other ways as well. Despite this flexibility, words and word order remains clear thanks to the two following constants:
 
@@ -441,5 +466,5 @@ As long as word order remains clear thanks to these constants, there's room for 
 
 ![](assets/images/script/the-nib-of-the-pen.svg)
 
-samples
+Samples
 -------
