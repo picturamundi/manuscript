@@ -414,57 +414,60 @@ Instead, how a letter is written depends on two factors:
 
 The table below summarizes how letters change shape and how they attach based on these two factors. Letters not shown on the chart (k, N, h) don’t change.
 
-cursive
-
-beginning
-
-middle
-
-end
-
-top
-
-middle
-
-bottom
-
-top
-
-middle
-
-bottom
-
-p
-
-![](assets/images/script/p.svg)
-
-m
-
-![](assets/images/script/m.svg)
-
-f
-
-![](assets/images/script/j.svg)
-
-t
-
-![](assets/images/script/t.svg)
-
-s
-
-![](assets/images/script/s.svg)
-
-n
-
-![](assets/images/script/n.svg)
-
-l
-
-![](assets/images/script/l.svg)
-
-r
-
-![](assets/images/script/r.svg)
+<div class="large-table cursive">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-8jgo" rowspan="2">cursive</th>
+                <th class="tg-0lax" rowspan="2">beginning</th>
+                <th class="tg-0lax" colspan="3">middle</th>
+                <th class="tg-0lax" colspan="3">end</th>
+            </tr>
+            <tr>
+                <th class="tg-0lax">top</th>
+                <th class="tg-0lax">middle</th>
+                <th class="tg-0lax">bottom</th>
+                <th class="tg-0lax">top</th>
+                <th class="tg-0lax">middle</th>
+                <th class="tg-0lax">bottom</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-0lax">p</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/p.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">m</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/m.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">f</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/j.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">t</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/t.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">s</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/s.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">n</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/n.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">l</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/l.svg"></td>
+            </tr>
+            <tr>
+                <td class="tg-0lax">r</td>
+                <td class="tg-0lax img" colspan="7"><img src="assets/images/script/r.svg"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 Since cursive is partly a matter of ergonomics, partly a matter of esthetics, there is flexibility here. For example, I often find that I like to use the middle form of letters in the `t` family at the beginning of one-syllable words (see visual examples below).
 
