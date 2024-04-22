@@ -23,126 +23,126 @@ Consonants
 *   Reoccurrence of a sound within compounds (t/d contained in tʃ/dʒ)
 
 
-                        <div class="large-table">
-                            <table class="tg">
-                                <thead>
-                                    <tr>
-                                        <th class="tg-8jgo" colspan="2" rowspan="2">Consonant sounds</th>
-                                        <th class="tg-0pky" colspan="2">a. base letter</th>
-                                        <th class="tg-0pky" colspan="2">b. related</th>
-                                        <th class="tg-0pky" colspan="2">c. compound</th>
-                                    </tr>
-                                    <tr>
-                                        <th class="tg-0pky">unvoiced</th>
-                                        <th class="tg-0pky">voiced</th>
-                                        <th class="tg-0pky">unvoiced</th>
-                                        <th class="tg-0pky">voiced</th>
-                                        <th class="tg-0pky">unvoiced</th>
-                                        <th class="tg-0pky">voiced</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td class="tg-0pky" rowspan="3">1. lips</td>
-                                        <td class="tg-0pky" rowspan="2">bilabial</td>
-                                        <td class="tg-0pky">p</td>
-                                        <td class="tg-0pky">b</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">m</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">w</td>
-                                        <td class="tg-0pky">cw</td>
-                                        <td class="tg-0pky">gw</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky">labiodental</td>
-                                        <td class="tg-0pky">f</td>
-                                        <td class="tg-0pky">v</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky" rowspan="4">2. ridge</td>
-                                        <td class="tg-0pky" rowspan="4">alveolar</td>
-                                        <td class="tg-0pky">t</td>
-                                        <td class="tg-0pky">d</td>
-                                        <td class="tg-0pky">θ</td>
-                                        <td class="tg-0pky">đ</td>
-                                        <td class="tg-0pky">tʃ</td>
-                                        <td class="tg-0pky">dʒ</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky">s</td>
-                                        <td class="tg-0pky">z</td>
-                                        <td class="tg-0pky">ʃ</td>
-                                        <td class="tg-0pky">ʒ</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">n</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">l</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky" rowspan="5">3. back</td>
-                                        <td class="tg-0pky">palatal</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">r</td>
-                                        <td class="tg-0pky">y</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky" rowspan="2">velar</td>
-                                        <td class="tg-0pky">k</td>
-                                        <td class="tg-0pky">g</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">ks</td>
-                                        <td class="tg-0pky">gz</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky">
-                                        </td>
-                                        <td class="tg-0pky">ŋ</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                    <tr>
-                                        <td class="tg-0pky">guttural</td>
-                                        <td class="tg-0pky">h</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky">ʔ</td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                        <td class="tg-0pky"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+<div class="large-table">
+    <table class="tg">
+        <thead>
+            <tr>
+                <th class="tg-8jgo" colspan="2" rowspan="2">Consonant sounds</th>
+                <th class="tg-0pky" colspan="2">a. base letter</th>
+                <th class="tg-0pky" colspan="2">b. related</th>
+                <th class="tg-0pky" colspan="2">c. compound</th>
+            </tr>
+            <tr>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+                <th class="tg-0pky">unvoiced</th>
+                <th class="tg-0pky">voiced</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="tg-0pky" rowspan="3">1. lips</td>
+                <td class="tg-0pky" rowspan="2">bilabial</td>
+                <td class="tg-0pky">p</td>
+                <td class="tg-0pky">b</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">m</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">w</td>
+                <td class="tg-0pky">cw</td>
+                <td class="tg-0pky">gw</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">labiodental</td>
+                <td class="tg-0pky">f</td>
+                <td class="tg-0pky">v</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="4">2. ridge</td>
+                <td class="tg-0pky" rowspan="4">alveolar</td>
+                <td class="tg-0pky">t</td>
+                <td class="tg-0pky">d</td>
+                <td class="tg-0pky">θ</td>
+                <td class="tg-0pky">đ</td>
+                <td class="tg-0pky">tʃ</td>
+                <td class="tg-0pky">dʒ</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">s</td>
+                <td class="tg-0pky">z</td>
+                <td class="tg-0pky">ʃ</td>
+                <td class="tg-0pky">ʒ</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">n</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">l</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="5">3. back</td>
+                <td class="tg-0pky">palatal</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">r</td>
+                <td class="tg-0pky">y</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky" rowspan="2">velar</td>
+                <td class="tg-0pky">k</td>
+                <td class="tg-0pky">g</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">ks</td>
+                <td class="tg-0pky">gz</td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">
+                </td>
+                <td class="tg-0pky">ŋ</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+            <tr>
+                <td class="tg-0pky">guttural</td>
+                <td class="tg-0pky">h</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky">ʔ</td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+                <td class="tg-0pky"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 ### Writing consonants
